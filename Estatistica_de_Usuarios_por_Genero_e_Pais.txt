@@ -1,0 +1,29 @@
+
+Estatística de Usuários por Gênero (Percentual)
+male      51.0%
+female    49.0%
+Name: gender, dtype: object
+
+Estatística de Usuários por País (Percentual)
+India             8.0%
+Australia         8.0%
+Canada            7.0%
+Iran              7.0%
+Brazil            6.0%
+Germany           6.0%
+Finland           6.0%
+Ukraine           5.0%
+Turkey            5.0%
+Netherlands       5.0%
+Spain             5.0%
+Denmark           4.0%
+France            4.0%
+New Zealand       4.0%
+Serbia            4.0%
+United Kingdom    4.0%
+Ireland           3.0%
+Norway            3.0%
+United States     2.0%
+Mexico            2.0%
+Switzerland       2.0%
+Name: country_location, dtype: object
